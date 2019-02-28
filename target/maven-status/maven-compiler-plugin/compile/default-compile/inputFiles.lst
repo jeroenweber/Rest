@@ -1,0 +1,9 @@
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\providers\NoContentExceptionMapper.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\providers\ServerExceptionMapper.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\beans\ErrorMessage.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\providers\BadRequestExceptionMapper.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\providers\ValidationExceptionMapper.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\services\HouseRegistrationService.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\beans\House.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\providers\NotFoundExceptionMapper.java
+C:\eclipseneon\workspace\Rest\src\main\java\assignments\restservice\beans\HouseResponse.java
